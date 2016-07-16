@@ -1,0 +1,6 @@
+framework module TTCardView {
+  umbrella header "TTCardView-umbrella.h"
+
+  export *
+  module * { export * }
+}

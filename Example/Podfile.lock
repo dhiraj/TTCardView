@@ -1,0 +1,16 @@
+PODS:
+  - TTCardView (0.1.0)
+
+DEPENDENCIES:
+  - TTCardView (from `../`)
+
+EXTERNAL SOURCES:
+  TTCardView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TTCardView: 132990a0d6556137515ff89c79db8c73c29b1127
+
+PODFILE CHECKSUM: bb5cbcf57c4cac961bf72c332d6575ac4b706094
+
+COCOAPODS: 1.0.1
