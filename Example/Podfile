@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TTCardView_Example' do
+  pod 'TTCardView', :path => '../'
+
+  target 'TTCardView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
